@@ -19,7 +19,7 @@ https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/installing-
 Installation:
 
 ```bash
-npm i @samhammer/ckeditor5-simple-image-upload-plugin
+npm i @victz/ckeditor5-simple-image-upload-plugin
 ```
 
 ## Configuration
